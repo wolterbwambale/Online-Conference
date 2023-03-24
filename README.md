@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 - Install the dev dependencies for linters run npm install.
 --->
-
+    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,6 +94,7 @@ Clone this repository to your desired folder:
 - GitHub: [Bwambale](https://github.com/wolterbwambale/Online-Conference)
 - Twitter: [Bwambale](https://twitter.com/BwambaleWolter)
 - LinkedIn: [Bwambale](https://www.linkedin.com/in/bwambale-benny-wolter-a9284925a/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
