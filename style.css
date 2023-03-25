@@ -629,22 +629,25 @@ footer img {
 
   .nav-social {
     position: relative;
+    display: flex;
+    flex-direction: column-reverse;
     top: 0;
     left: 0;
     width: 100%;
-    background: #7f8184;
-    padding: 10px;
+    background: #272a31;
+    padding: 5px 10px 5px;
   }
 
   .nav-social ul li {
     display: flex;
     color: #fff;
     float: right;
-    padding: 0 20px;
+    padding: 0 15px;
   }
 
   .list-icon {
-    margin-right: 10%;
+    margin-right: 5%;
+    
   }
 
   .main-footer img {
@@ -687,7 +690,7 @@ footer img {
   .heads-all .logo-img img {
     float: left;
     height: 60px;
-    margin-left: -220%;
+    margin-left: -105%;
     top: 0;
   }
 
@@ -701,10 +704,10 @@ footer img {
 
   .heads-all ul li a {
     text-decoration: none;
-    line-height: 23px;
+    line-height: 24px;
     color: #7f8184;
-    padding: 10px 30px;
-    font-size: 75%;
+    padding: 10px 0 60px 70px;
+    font-size: 65%;
   }
 
   .heads-all li a:active {
@@ -731,6 +734,7 @@ footer img {
     color: #f05222;
     font-size: 3rem;
     font-weight: 900;
+    margin-left: -26%;
   }
 
   .main-pro {

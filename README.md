@@ -37,7 +37,7 @@
 
 <!--Video-->
 ## Video Presentation <a name="video-presentation"></a>
-[Click Here for Video Presentation])
+[Click Here for Video Presentation])(https://www.loom.com/share/9c1014b8302a4db287baeb2649b665d8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,8 +129,13 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
+>[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
 
+> Give credit to everyone who inspired your codebase.
+  Thanks to the Microverse team for the great curriculum.
+  Thanks to the Code Reviewer(s) for the insightful feedbacks.
+  A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
+  Hat tip to anyone whose code was used.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,7 +146,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](./MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
