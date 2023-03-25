@@ -8,6 +8,7 @@
   - [🛠 Built With](#built-with)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+- [Deployment](#Deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -32,7 +33,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo]()
+[Live Demo](https://wolterbwambale.github.io/Online-Conference/)
 
 
 <!--Video-->
@@ -84,6 +85,11 @@ Clone this repository to your desired folder:
 - Install the dev dependencies for linters run npm install.
 --->
     
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Deployment
+It will be deployed after merge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
